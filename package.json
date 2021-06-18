@@ -1,6 +1,7 @@
 {
   "name": "jour",
   "author": "Amine Ben hammou",
+  "description": "A tool to schedule daily actions",
   "version": "0.1.0",
   "license": "MIT",
   "module": "dist/jour.esm.js",
