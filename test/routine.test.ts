@@ -1,7 +1,7 @@
-import jour from '../src'
+import routine from '../src'
 
-describe('jour', () => {
-  const plan = jour()
+describe('routine', () => {
+  const plan = routine()
 
   it('runs action', () => {
     const action = jest.fn()

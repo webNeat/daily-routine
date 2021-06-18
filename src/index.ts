@@ -1,4 +1,4 @@
-class Jour {
+class Routine {
   private actions: Function[] = []
 
   do(action: Function) {
@@ -13,6 +13,4 @@ class Jour {
   }
 }
 
-export default function jour() {
-  return new Jour()
-}
+export default () => new Routine()

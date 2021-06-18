@@ -1,10 +1,10 @@
 {
-  "name": "jour",
+  "name": "daily-routine",
   "author": "Amine Ben hammou",
   "description": "A tool to schedule daily actions",
-  "version": "1.0.0-alpha.1",
+  "version": "1.0.0-alpha.2",
   "license": "MIT",
-  "module": "dist/jour.esm.js",
+  "module": "dist/daily-routine.esm.js",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
   "files": [
@@ -19,8 +19,7 @@
     "build": "tsdx build",
     "test": "tsdx test",
     "test-coverage": "tsdx test --coverage",
-    "lint": "tsdx lint",
-    "prepare": "tsdx build"
+    "lint": "tsdx lint"
   },
   "devDependencies": {
     "tsdx": "^0.14.1",
