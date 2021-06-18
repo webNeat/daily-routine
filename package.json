@@ -1,10 +1,10 @@
 {
-  "name": "jour",
+  "name": "daily-routine",
   "author": "Amine Ben hammou",
   "description": "A tool to schedule daily actions",
   "version": "1.0.0-alpha.1",
   "license": "MIT",
-  "module": "dist/jour.esm.js",
+  "module": "dist/daily-routine.esm.js",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
   "files": [
