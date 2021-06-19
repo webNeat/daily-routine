@@ -1,6 +1,6 @@
+import {Duration, Time} from './types'
 import {durationToMinutes} from './duration'
 import {toMinutes} from './time'
-import {Duration, Time} from './types'
 
 export const at = (time: Time) => (now: Date) => toMinutes(now) == toMinutes(time)
 export const before = (time: Time) => (now: Date) => toMinutes(now) <= toMinutes(time)
