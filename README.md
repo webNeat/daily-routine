@@ -1,5 +1,7 @@
 # Daily routine
 
+**The development is still in progress**
+
 A tool to schedule daily actions.
 
 [![Bundle size](https://img.shields.io/bundlephobia/minzip/daily-routine?style=flat-square)](https://bundlephobia.com/result?p=daily-routine)
